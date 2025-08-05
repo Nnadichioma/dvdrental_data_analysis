@@ -2,7 +2,7 @@
 DVD Rental Data Analysis
 # 🎬 DVD Rental SQL Analysis (PostgreSQL)
 
-This project explores the **DVD Rental database** using **PostgreSQL** to extract meaningful insights using SQL queries. It includes both basic and advanced queries such as filtering, aggregations, joins, and subqueries — without any visualizations. Screenshots of query results are included for illustration.
+This project explores the **DVD Rental database** using **PostgreSQL** to extract meaningful insights using SQL queries. It includes both basic and advanced queries such as filtering, aggregations, joins, and subqueries. Screenshots of query results are included for illustration.
 
 ---
 
