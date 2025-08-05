@@ -60,7 +60,7 @@ This project explores the **DVD Rental database** using **PostgreSQL** to extrac
 ## 🖼 Visuals
 
 **Question 1. Select actors whose first name is not ‘John’:**
-![Most Rented Movie](images/question 1_dvdrental.png)
+![Question 1](images/question 1_dvdrental.png)
 
 **Question 2. Show actors whose first names are Ed, Nick, or Jennifer:**
 ![Question 2](images/question 2_dvdrental.png)
