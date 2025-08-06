@@ -60,9 +60,9 @@ This project explores the **DVD Rental database** using **PostgreSQL** to extrac
 ## 🖼 Visuals
 
 ![Question 1](images/question_1_dvdrental.png)
-![Question 2](images/question 2_dvdrental.png)
-![Question 24](images/question 24_dvdrental.png)
-![Question 27](images/Question 27_dvdrental.png)
+![Question 2](images/question_2_dvdrental.png)
+![Question 24](images/question_24_dvdrental.png)
+![Question 27](images/question_27_dvdrental.png)
 
 
 ---
